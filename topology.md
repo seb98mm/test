@@ -33,6 +33,10 @@ graph LR;
     C-->1C[Data Visualizations Best Practices];
     C-->1D[Data Ethics 101];
     C-->1E[SQL for Non-Technical People];
+    
+    D-->1g[Sourcing Data];
+    D-->2g[Data Exploration];
+    D-->3g[Analyze and Report];
 ```
 
 ```mermaid

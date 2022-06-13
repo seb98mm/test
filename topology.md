@@ -1,4 +1,23 @@
 ```mermaid
+classDiagram
+    DataScience --> Overview
+    DataScience --> Data practices
+    DataScience --> Process
+    Overview : Overview
+    Overview : Teacher resources
+    Overview : Use cases
+    Data practices : Data practices
+    Data practices : Data wrangling and Integration
+    Data practices : Exploratory Data Analysis
+    Data practices : Data and Knowledge Modeling
+    Process : Scalable Data Processing
+    Process : Machine Learning
+    Process : Model Assessment
+    Process : Ethics
+    
+```
+
+```mermaid
 graph LR;
     A[Data Science]-->B[Overview];
     A[Data Science]-->C[Foundation];

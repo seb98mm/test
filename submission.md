@@ -79,9 +79,10 @@ If you have any questions or concerns - feel free to reach out to odpi-opends4al
   
 </details>
 
-<details><summary>Waiver</summary>
-  [https://github.com/odpi/OpenDS4All/blob/master/NAMING-CONVENTIONS.md](https://github.com/odpi/tsc/blob/master/process/contribution_guidelines.md#developer-certificate-of-origin)
-  
+<details><summary>Licensing Guidelines</summary>
+  <p>
+    [Developer Certificate of Origin](https://github.com/odpi/tsc/blob/master/process/contribution_guidelines.md#developer-certificate-of-origin)
+  </p>
 </details>
 
 # Curriculum Submissions

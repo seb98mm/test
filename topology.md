@@ -1,19 +1,27 @@
 ```mermaid
 classDiagram
     DataScience --> Overview
-    DataScience --> Data practices
+    DataScience --> Data Practices
     DataScience --> Process
-    Overview : Overview
-    Overview : Teacher resources
-    Overview : Use cases
-    Data practices : Data practices
-    Data practices : Data wrangling and Integration
-    Data practices : Exploratory Data Analysis
-    Data practices : Data and Knowledge Modeling
-    Process : Scalable Data Processing
-    Process : Machine Learning
-    Process : Model Assessment
-    Process : Ethics
+
+    class Overview{
+    Overview
+    Teacher resources
+    Use cases
+    }
+
+    class  Data Practices{
+    Data Practice"s href="fhjg"
+    Data wrangling and Integration
+    Exploratory Data Analysis
+    Data and Knowledge Modeling
+    }
+class  Process{
+    Scalable Data Processing
+    Machine Learning
+    Model Assessment
+    Ethics
+}
     
 ```
 

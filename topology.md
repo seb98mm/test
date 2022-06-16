@@ -11,7 +11,7 @@ classDiagram
     }
 
     class  Data Practices{
-    Data Practice"s href="fhjg"
+    Data Practice
     Data wrangling and Integration
     Exploratory Data Analysis
     Data and Knowledge Modeling
